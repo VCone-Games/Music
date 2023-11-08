@@ -1,0 +1,26 @@
+_______EFECTOS DE SONIDOS:
+
+PERSONAJE
+-salto
+-caida
+-gancho
+-parry
+-VAPOR (doble salto)
+-wallgrab
+
+ENEMIGOS:
+
+
+
+ESCENARIO:
+
+
+
+
+________BANDA SONORA
+
+ESCENARIOS
+-banda propia
+
+BOSS FIGHT
+-banda de su escenario modificada
